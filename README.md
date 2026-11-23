@@ -1,66 +1,57 @@
-# Run your company from a beach chair
+# I build AI tools that do real work. And give them away for free.
 
-A free, seven-part build order for putting AI agents to work on your business — the org
-chart, the shared file that keeps them out of each other's way, the memory, the watcher,
-and how to ship code to your own server from a phone.
+I'm Brian MacDonald. I build AI-powered tools, automations, and operating systems that help people create more, accomplish more, and spend less time doing repetitive work.
 
-I run my own company on this. One person, no employees, on a twelve-dollar server I own.
-Everything below is written from what actually runs, including the parts that broke.
+Most of what I build, I share for free.
 
-**Start here → [How to Start Building an AIOS](https://brian-macdonald.com/guides/how-to-build-an-ai-operating-system)**
+No complicated funnels. No mandatory subscriptions. Just useful tools you can install, experiment with, and make your own.
+
+## Free AI Skills
+
+Powerful AI tools for Claude, ChatGPT, and local execution. Each project documents its supported platforms and installation options.
+
+| Skill | What it does |
+|---|---|
+| 🧩 **[App Cloning Skill](https://github.com/bmacbuilds/app-cloning-skill)** | Recreate the functionality of apps you love and build your own working versions. |
+| 🎬 **[AI Video Editor](https://github.com/bmacbuilds/video-editor-skill)** | Turn raw footage into edited Instagram Reels, TikToks, and YouTube Shorts. |
+| 📸 **[Instagram Skill](https://github.com/bmacbuilds/instagram-skill)** | Research content ideas, create Reels, write captions, and build an Instagram content strategy. |
+| ▶️ **[YouTube Skill](https://github.com/bmacbuilds/youtube-skill)** | Research videos, develop scripts, improve titles and thumbnails, and plan content. |
+| 💼 **[LinkedIn Skill](https://github.com/bmacbuilds/linkedin-skill)** | Create posts, improve profiles, and build a stronger professional presence. |
+| 🧠 **[Business OS Skill](https://github.com/bmacbuilds/business-os-skill)** | Build a lightweight AI operating system for your business using Claude. |
+
+*New skills are being developed and released. Check each repository for its current status and available functionality.*
+
+## Also Worth Checking Out
+
+**[TraderOS](https://github.com/bmacbuilds/TraderOS)** — A free AI-assisted quantitative trading research system for developing, testing, and challenging trading ideas.
+
+**[Build Your Own AI Business OS](https://github.com/bmacbuilds/bmacbuilds)** — My free, seven-part guide to building a business operating system using AI agents, shared knowledge, automations, and your own infrastructure.
+
+## Ownbox Ready
+
+Every new skill is being designed around a simple principle:
+
+**Use it free. Keep your work. Scale it when you're ready.**
+
+The goal is to make your projects portable into [Ownbox](https://www.ownbox.io), where businesses can add:
+
+- A persistent database and project history
+- A visual admin dashboard
+- Web and mobile access
+- Team collaboration and shared AI workflows
+
+The free tools stand on their own. Ownbox is there for people who need to operate them at business scale.
+
+## About Me
+
+I'm a builder and entrepreneur based in Southern California.
+
+I spend my time exploring what happens when AI stops being something you chat with and starts becoming something that actually does work.
+
+I build, test, break, improve, and share what I learn.
+
+**[Website](https://brian-macdonald.com)** · **[Ownbox](https://www.ownbox.io)** · **[Instagram](https://www.instagram.com/BmacBuilds)**
 
 ---
 
-## The series, in order
-
-Build them in this order. Each one assumes the last.
-
-| # | Part | What you get |
-|---|---|---|
-| 1 | **[The operating system](https://brian-macdonald.com/guides/how-to-build-an-ai-operating-system)** | The one test that separates a real system from an expensive hobby, plus a seven-day build order. **Start here.** |
-| 2 | **[The org chart](https://brian-macdonald.com/guides/how-to-build-an-ai-team-that-runs-while-you-re-surfing)** | Who does what, and the one rule that makes it safe to walk away. |
-| 3 | **[The division wall](https://brian-macdonald.com/guides/how-to-coordinate-multiple-ai-agents)** | One shared file instead of twenty inboxes, and the two rules that matter on day one. |
-| 4 | **[The shared brain](https://brian-macdonald.com/guides/build-your-own-second-brain-for-claude-code)** | Stop paying your AI to re-read and forget everything it learned yesterday. |
-| 5 | **[The watcher](https://brian-macdonald.com/guides/how-to-wake-an-ai-agent)** | How you find out the work shipped without paying to keep watching. |
-| 6 | **[The lifeline](https://brian-macdonald.com/guides/deploy-from-your-phone-with-claude-code)** | A desktop session can't leave your Mac. What broke, and what I built instead. |
-| 7 | **[The deploy](https://brian-macdonald.com/guides/how-to-deploy-from-your-phone)** | The endpoint, its rails, and how to prove a deploy landed. With the code. |
-
-Series hub: **[brian-macdonald.com/beachchair](https://brian-macdonald.com/beachchair)**
-
----
-
-## Parts 6 and 7 are the newest, and the reason this repo exists
-
-A Claude Code session on your desktop is pointed at a folder. It cannot leave that machine.
-And if deploying means SSH from your office, the key lives in your office — so "ship it"
-quietly means "be at that desk."
-
-Both walls come down the same way: move the session to the cloud, and give your server a
-front door of its own. Part 6 is what happened. Part 7 is the build, with the endpoint code,
-the safety properties and why each one is there, and the checks that prove it works.
-
----
-
-## Also worth your time
-
-- **[Turn One Voice Note Into Customers](https://brian-macdonald.com/guides/turn-one-voice-note-into-customers)** — one recording becomes an article, a carousel, a reel and four posts.
-- **[How to Build an AI Content Engine](https://brian-macdonald.com/guides/the-ai-content-engine)** — the publishing side of the same system.
-- **[All free guides](https://brian-macdonald.com/guides)** — everything, no email required to read.
-
----
-
-## Who wrote this
-
-I'm Brian MacDonald. Fifteen years in marketing and lead generation, now building AI systems
-in public from Laguna Beach.
-
-I don't write about anything I haven't run. Every guide here describes something in
-production in my own business, and where a thing failed I say so — the failures are usually
-the useful part.
-
-- **Site** — [brian-macdonald.com](https://brian-macdonald.com)
-- **The machines I run, for sale** — [brian-macdonald.com/products](https://brian-macdonald.com/products)
-- **What one pulled this morning** — [brian-macdonald.com/machines](https://brian-macdonald.com/machines)
-- **Instagram** — [@BmacBuilds](https://instagram.com/bmacbuilds)
-
-Nothing here is gated. If a guide saves you a weekend, that's the whole point.
+*If something here saves you time or helps you build something cool, that's the whole point.*
