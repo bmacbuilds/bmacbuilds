@@ -17,7 +17,7 @@ Free AI tools for Claude, ChatGPT, and your own computer.
 
 ## More Free Projects
 
-**[TraderOS](https://github.com/bmacbuilds/TraderOS)** — Turn Claude into your trading research analyst. Research strategies, challenge assumptions, and evaluate risk.
+**[TraderOS](https://github.com/traderskill/TraderOS)** — Turn Claude into your trading research analyst. Research strategies, challenge assumptions, and evaluate risk.
 
 **[Run Your Business From a Beach Chair](https://brian-macdonald.com/beachchair)** — My free Claude Code series on building AI teams, shared memory, and automations you can run from anywhere.
 
