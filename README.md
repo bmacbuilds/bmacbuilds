@@ -19,6 +19,8 @@ Free AI tools for Claude, ChatGPT, and your own computer.
 
 **[TraderOS](https://github.com/bmacbuilds/TraderOS)** — Turn Claude into your trading research analyst. Research strategies, challenge assumptions, and evaluate risk.
 
+**[Run Your Business From a Beach Chair](https://brian-macdonald.com/beachchair)** — My free Claude Code series on building AI teams, shared memory, and automations you can run from anywhere.
+
 ## Ownbox Ready
 
 These tools are being designed to work independently. When you need a database, dashboard, mobile app, or team collaboration, there's **[Ownbox](https://ownbox.io)**.
