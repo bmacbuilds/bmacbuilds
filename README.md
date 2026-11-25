@@ -11,7 +11,7 @@ Free AI tools for Claude, ChatGPT, and your own computer.
 | 📸 **[Instagram](https://github.com/bmacbuilds/instagram-skill)** | Research ideas, write hooks, create posts, and plan Reels. |
 | ▶️ **[YouTube](https://github.com/bmacbuilds/youtube-skill)** | Find video ideas, write scripts, and improve titles and thumbnails. |
 | 💼 **[LinkedIn](https://github.com/bmacbuilds/linkedin-skill)** | Create posts, improve your profile, and grow your LinkedIn presence. |
-| 🧠 **[Business OS](https://github.com/bmacbuilds/business-os-skill)** | Build a lightweight AI operating system for your business. |
+| 🧠 **[AI Builder](https://github.com/bmacbuilds/builder-skill)** | Build a lightweight AI operating system for your business. |
 
 *New skills are in development and will be released as they're ready.*
 
