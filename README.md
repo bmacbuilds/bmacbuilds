@@ -27,7 +27,7 @@ New skills are released as they become ready. Each repository includes its suppo
 
 I'm also developing a new generation of skills designed around business ownership, growth and autonomy.
 
-**Builder · Founder · Rainmaker · Dealmaker · Owner**
+**Builder · Founder · Closer · Funder · Owner**
 
 ## Learn With Me
 
